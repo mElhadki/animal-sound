@@ -1,5 +1,6 @@
 package AnimalSound;
 
+
 public class Sauvage extends Animal {
 	
 	
@@ -11,6 +12,5 @@ public class Sauvage extends Animal {
 	public Sauvage() {
 		
 	}
-	
 	
 }

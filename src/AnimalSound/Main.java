@@ -10,8 +10,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		Chien chien = new Chien();
-		File clap = new File("barks.wav");
-		chien.animalSound(clap);
+		File barks = new File("dog.wav");
+		chien.animalSound(barks);
 		
   }
 }

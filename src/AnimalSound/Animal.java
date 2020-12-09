@@ -48,7 +48,7 @@ public class Animal {
 	}
 	
 	
-	public static void animalSound(File Sound) 
+	public void animalSound(File Sound) 
 	 
     {
 	 
